@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritu-97Rai
 - 👀 I’m interested in Vehicle Security
-- 🌱 I’m currently doing literature review on vehicle-based intrusion detection system
+- 🌱 I’m currently working on in-vehicle intrusion detection system
 
 
 <!---
